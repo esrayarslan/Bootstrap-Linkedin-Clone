@@ -1,1 +1,1 @@
-# Bootstrap-Linkedin-Clone![linkedin](https://user-images.githubusercontent.com/107414567/178160518-686c470f-ea24-4ee6-8b06-85481c4c4dfa.png)
+![Linkedin-Clone](https://user-images.githubusercontent.com/107414567/183503043-35a5ba76-4e61-417a-945b-3ea3c0d94f62.png)
